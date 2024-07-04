@@ -4,8 +4,10 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 ### Scheduling
 - [Orca](https://www.usenix.org/conference/osdi22/presentation/yu): A Distributed Serving System for Transformer-Based Generative Models | OSDI 22
 - [SpotServe](https://arxiv.org/abs/2311.15566): Serving Generative Large Language Models on Preemptible Instances | CMU
+- [ExeGPT:](https://arxiv.org/html/2404.07947v1) Constraint-Aware Resource Scheduling for LLM Inference| ASPLOS' 24
 - [SuperServe:](https://arxiv.org/pdf/2312.16733.pdf) Fine-Grained Inference Serving for Unpredictable Workloads
 - [Fairness in Serving Large Language Models](https://arxiv.org/abs/2401.00588) | OSDI' 24
+- [Llumnix:](https://arxiv.org/abs/2406.03243) Dynamic Scheduling for Large Language Model Serving| OSDI' 24
 ### Memory/KVCache
 - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf)
 - [vLLM](https://vllm.ai/): Easy, Fast, and Cheap LLM Serving with PagedAttention | SOSP' 23
