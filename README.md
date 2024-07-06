@@ -13,6 +13,11 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [vLLM](https://vllm.ai/): Easy, Fast, and Cheap LLM Serving with PagedAttention | SOSP' 23
 - [vAttention:](https://arxiv.org/abs/2405.04437) Dynamic Memory Management for Serving LLMs without PagedAttention
 - [DéjàVu](https://arxiv.org/abs/2403.01876): KV-cache Streaming for Fast, Fault-tolerant Generative LLM Serving
+### Disaggregated
+- [DistServe](https://arxiv.org/abs/2401.09670): Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving
+- [Inference without Interference](https://arxiv.org/abs/2401.11181): Disaggregate LLM Inference for Mixed Downstream Workloads
+- [Mooncake:](https://github.com/kvcache-ai/Mooncake/tree/main?tab=readme-ov-file) A KVCache-centric Disaggregated Architecture for LLM Serving | Moonshot
+- [MemServe:](https://arxiv.org/abs/2406.17565) Context Caching for Disaggregated LLM Serving with Elastic Memory Pool | Huawei
 ### Resource-Constrained
 - [FlexGen](https://arxiv.org/abs/2303.06865): High-throughput Generative Inference of Large Language Models with a Single GPU | ICML' 23
 - [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514) | Apple
@@ -20,10 +25,6 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [LLMCad](https://arxiv.org/abs/2309.04255): Fast and Scalable On-device Large Language Model Inference
 - [CaraServe](https://arxiv.org/abs/2401.11240): CPU-Assisted and Rank-Aware LoRA Serving for Generative LLM Inference
 - [STI](https://arxiv.org/abs/2207.05022): Turbocharge NLP Inference at the Edge via Elastic Pipelining | ASPLOS 23 
-### Disaggregated
-- [DistServe](https://arxiv.org/abs/2401.09670): Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving
-- [Inference without Interference](https://arxiv.org/abs/2401.11181): Disaggregate LLM Inference for Mixed Downstream Workloads
-- [Mooncake:](https://github.com/kvcache-ai/Mooncake/tree/main?tab=readme-ov-file) A KVCache-centric Disaggregated Architecture for LLM Serving | Moonshot
 ### Heterogeneous
 - [NeuPIMs:](https://arxiv.org/abs/2403.00579) NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing | ASPLOS'24
 - [AttAcc!](https://github.com/scale-snu/attacc_simulator) Unleashing the Power of PIM for Batched Transformer-based Generative Model Inference | ASPLOS'24
