@@ -33,7 +33,7 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 ### Sparsity
 - [Flash-LLM](https://arxiv.org/pdf/2309.10285v1.pdf): Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity | VLDB' 24
 - [Deja Vu](https://proceedings.mlr.press/v202/liu23am.html): Contextual Sparsity for Efficient LLMs at Inference Time | ICML' 23
-- [MInference 1.0](https://proceedings.mlr.press/v202/liu23am.html): Contextual Sparsity for Efficient LLMs at Inference Time | Microsoft
+- [MInference 1.0](https://proceedings.mlr.press/v202/liu23am.html): Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention | Microsoft
 ### Speculative
 - [SpecInfer](https://www.cs.cmu.edu/~zhihaoj2/papers/specinfer.pdf): Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification | CMU
 - [Optimizing Speculative Decoding for Serving Large Language Models Using Goodput](https://arxiv.org/abs/2406.14066v1) | UCB
