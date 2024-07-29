@@ -13,6 +13,7 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [vLLM](https://vllm.ai/): Easy, Fast, and Cheap LLM Serving with PagedAttention | SOSP' 23
 - [vAttention:](https://arxiv.org/abs/2405.04437) Dynamic Memory Management for Serving LLMs without PagedAttention
 - [DéjàVu](https://arxiv.org/abs/2403.01876): KV-cache Streaming for Fast, Fault-tolerant Generative LLM Serving
+- [DéjàVu](https://arxiv.org/abs/2312.07104): Efficient Execution of Structured Language Model Programs | UCB
 ### Disaggregated
 - [DistServe](https://arxiv.org/abs/2401.09670): Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving
 - [Inference without Interference](https://arxiv.org/abs/2401.11181): Disaggregate LLM Inference for Mixed Downstream Workloads
@@ -35,6 +36,7 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [Deja Vu](https://proceedings.mlr.press/v202/liu23am.html): Contextual Sparsity for Efficient LLMs at Inference Time | ICML' 23
 - [MInference 1.0](https://proceedings.mlr.press/v202/liu23am.html): Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention | Microsoft
 - [QServe:](https://github.com/mit-han-lab/qserve) W4A8KV4 Quantization and System Co-design for Efficient LLM Serving | MIT
+- [LazyLLM:](https://arxiv.org/pdf/2407.14057) DYNAMIC TOKEN PRUNING FOR EFFICIENT LONG CONTEXT LLM INFERENCE | Apple
 ### Speculative
 - [SpecInfer](https://www.cs.cmu.edu/~zhihaoj2/papers/specinfer.pdf): Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification | CMU
 - [Optimizing Speculative Decoding for Serving Large Language Models Using Goodput](https://arxiv.org/abs/2406.14066v1) | UCB
