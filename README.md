@@ -42,6 +42,7 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [SpecInfer](https://www.cs.cmu.edu/~zhihaoj2/papers/specinfer.pdf): Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification | CMU
 - [Optimizing Speculative Decoding for Serving Large Language Models Using Goodput](https://arxiv.org/abs/2406.14066v1) | UCB
 - [TriForce:](https://arxiv.org/abs/2404.11912) Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding | CMU
+- [MagicDec:](https://arxiv.org/abs/2408.11049) Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding | CMU
 ### Multiple LLM
 - [MuxServe:](https://arxiv.org/abs/2404.02015) Flexible Multiplexing for Efficient Multiple LLM Serving
 - [BlockLLM:](https://arxiv.org/abs/2404.18322) Multi-tenant Finer-grained Serving for Large Language Models
