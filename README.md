@@ -38,9 +38,10 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [MInference 1.0](https://proceedings.mlr.press/v202/liu23am.html): Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention | Microsoft
 - [QServe:](https://github.com/mit-han-lab/qserve) W4A8KV4 Quantization and System Co-design for Efficient LLM Serving | MIT
 - [LazyLLM:](https://arxiv.org/pdf/2407.14057) DYNAMIC TOKEN PRUNING FOR EFFICIENT LONG CONTEXT LLM INFERENCE | Apple
-### Speculative
+### Speculative Decoding
 - [SpecInfer](https://www.cs.cmu.edu/~zhihaoj2/papers/specinfer.pdf): Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification | CMU
 - [Optimizing Speculative Decoding for Serving Large Language Models Using Goodput](https://arxiv.org/abs/2406.14066v1) | UCB
+- [TriForce:](https://arxiv.org/abs/2404.11912) Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding | CMU
 ### Multiple LLM
 - [MuxServe:](https://arxiv.org/abs/2404.02015) Flexible Multiplexing for Efficient Multiple LLM Serving
 - [BlockLLM:](https://arxiv.org/abs/2404.18322) Multi-tenant Finer-grained Serving for Large Language Models
