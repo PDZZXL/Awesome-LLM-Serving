@@ -52,6 +52,7 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 ### LLM Program/Agent
 - [SGLang](https://arxiv.org/abs/2312.07104): Efficient Execution of Structured Language Model Programs | UCB
 - [AutoGen](https://arxiv.org/abs/2308.08155): Enabling Next-Gen LLM Applications via Multi-Agent Conversation | Microsoft
+- [Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://arxiv.org/abs/2403.19708) | NUS
 
 ## Misc
 - [Efficiently Scaling Transformer Inference](https://arxiv.org/pdf/2211.05102.pdf) | MLSys' 23
