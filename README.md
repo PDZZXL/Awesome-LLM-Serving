@@ -8,12 +8,13 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [SuperServe:](https://arxiv.org/pdf/2312.16733.pdf) Fine-Grained Inference Serving for Unpredictable Workloads
 - [Fairness in Serving Large Language Models](https://arxiv.org/abs/2401.00588) | OSDI' 24
 - [Llumnix:](https://arxiv.org/abs/2406.03243) Dynamic Scheduling for Large Language Model Serving| OSDI' 24
+- [Efficient LLM Scheduling by Learning to Rank](https://arxiv.org/html/2408.15792v1) | UCSD
 ### Memory/KVCache
 - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf)
 - [vLLM](https://vllm.ai/): Easy, Fast, and Cheap LLM Serving with PagedAttention | SOSP' 23
 - [vAttention:](https://arxiv.org/abs/2405.04437) Dynamic Memory Management for Serving LLMs without PagedAttention
 - [DéjàVu](https://arxiv.org/abs/2403.01876): KV-cache Streaming for Fast, Fault-tolerant Generative LLM Serving
-- [SGLang](https://arxiv.org/abs/2312.07104): Efficient Execution of Structured Language Model Programs | UCB
+
 ### Disaggregated
 - [DistServe](https://arxiv.org/abs/2401.09670): Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving
 - [Inference without Interference](https://arxiv.org/abs/2401.11181): Disaggregate LLM Inference for Mixed Downstream Workloads
@@ -48,7 +49,8 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [BlockLLM:](https://arxiv.org/abs/2404.18322) Multi-tenant Finer-grained Serving for Large Language Models
 - [Punica](https://arxiv.org/abs/2310.18547): Multi-Tenant LoRA Serving
 
-### Agent
+### LLM Program/Agent
+- [SGLang](https://arxiv.org/abs/2312.07104): Efficient Execution of Structured Language Model Programs | UCB
 - [AutoGen](https://arxiv.org/abs/2308.08155): Enabling Next-Gen LLM Applications via Multi-Agent Conversation | Microsoft
 
 ## Misc
