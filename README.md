@@ -1,6 +1,11 @@
 # Awesome LLM Serving Papers
 A curated list that categorizes the existing Large Language Model (LLM) Serving works. Star this repository, and you may gain some inspiration and contribute to the advancement of this research field.
 ## LLM Serving
+## Must-Reads🫵
+- [Orca](https://www.usenix.org/conference/osdi22/presentation/yu): A Distributed Serving System for Transformer-Based Generative Models | OSDI 22
+- [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf)
+- [vLLM](https://vllm.ai/): Easy, Fast, and Cheap LLM Serving with PagedAttention | SOSP' 23
+- [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](http://arxiv.org/abs/2505.09343) ｜ DeepSeek
 ### Scheduling
 - [Orca](https://www.usenix.org/conference/osdi22/presentation/yu): A Distributed Serving System for Transformer-Based Generative Models | OSDI 22
 - [SpotServe](https://arxiv.org/abs/2311.15566): Serving Generative Large Language Models on Preemptible Instances | CMU
@@ -9,6 +14,7 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [Fairness in Serving Large Language Models](https://arxiv.org/abs/2401.00588) | OSDI' 24
 - [Llumnix:](https://arxiv.org/abs/2406.03243) Dynamic Scheduling for Large Language Model Serving| OSDI' 24
 - [Efficient LLM Scheduling by Learning to Rank](https://arxiv.org/html/2408.15792v1) | UCSD
+- [NanoFlow:](http://arxiv.org/abs/2408.12757) Towards Optimal Large Language Model Serving Throughput| UW
 ### Memory/KVCache
 - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf)
 - [vLLM](https://vllm.ai/): Easy, Fast, and Cheap LLM Serving with PagedAttention | SOSP' 23
@@ -33,6 +39,7 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - IANUS: Integrated Accelerator based on NPU-PIM Unified Memory System | ASPLOS'24
 - [Helix:](https://arxiv.org/abs/2406.01566) Distributed Serving of Large Language Models via Max-Flow on Heterogeneous GPUs | CMU
 - [Mélange:](https://arxiv.org/abs/2404.14527) Cost Efficient Large Language Model Serving by Exploiting GPU Heterogeneity | UCB
+- [Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs](http://arxiv.org/abs/2502.00722)
 ### Sparsity
 - [Flash-LLM](https://arxiv.org/pdf/2309.10285v1.pdf): Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity | VLDB' 24
 - [Deja Vu](https://proceedings.mlr.press/v202/liu23am.html): Contextual Sparsity for Efficient LLMs at Inference Time | ICML' 23
@@ -44,6 +51,7 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [Optimizing Speculative Decoding for Serving Large Language Models Using Goodput](https://arxiv.org/abs/2406.14066v1) | UCB
 - [TriForce:](https://arxiv.org/abs/2404.11912) Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding | CMU
 - [MagicDec:](https://arxiv.org/abs/2408.11049) Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding | CMU
+- [SpecReason:](http://arxiv.org/abs/2504.07891) Fast and Accurate Inference-Time Compute via Speculative Reasoning | Princeton
 ### Multiple LLM
 - [MuxServe:](https://arxiv.org/abs/2404.02015) Flexible Multiplexing for Efficient Multiple LLM Serving
 - [BlockLLM:](https://arxiv.org/abs/2404.18322) Multi-tenant Finer-grained Serving for Large Language Models
@@ -53,6 +61,7 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [SGLang](https://arxiv.org/abs/2312.07104): Efficient Execution of Structured Language Model Programs | UCB
 - [AutoGen](https://arxiv.org/abs/2308.08155): Enabling Next-Gen LLM Applications via Multi-Agent Conversation | Microsoft
 - [Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://arxiv.org/abs/2403.19708) | NUS
+- [Autellix:](http://arxiv.org/abs/2502.13965) An Efficient Serving Engine for LLM Agents as General Programs] | UCB
 
 ## Misc
 - [Efficiently Scaling Transformer Inference](https://arxiv.org/pdf/2211.05102.pdf) | MLSys' 23
