@@ -52,6 +52,7 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [TriForce:](https://arxiv.org/abs/2404.11912) Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding | CMU
 - [MagicDec:](https://arxiv.org/abs/2408.11049) Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding | CMU
 - [SpecReason:](http://arxiv.org/abs/2504.07891) Fast and Accurate Inference-Time Compute via Speculative Reasoning | Princeton
+- [MineDraft:](https://arxiv.org/abs/2603.18016) A Framework for Batch Parallel Speculative Decoding (overlaps draft & verify; +75% throughput, -39% latency; vLLM plugin) | NUS & MIT
 ### Multiple LLM
 - [MuxServe:](https://arxiv.org/abs/2404.02015) Flexible Multiplexing for Efficient Multiple LLM Serving
 - [BlockLLM:](https://arxiv.org/abs/2404.18322) Multi-tenant Finer-grained Serving for Large Language Models
