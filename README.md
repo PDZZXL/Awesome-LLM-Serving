@@ -64,6 +64,7 @@ A curated list that categorizes the existing Large Language Model (LLM) Serving 
 - [AutoGen](https://arxiv.org/abs/2308.08155): Enabling Next-Gen LLM Applications via Multi-Agent Conversation | Microsoft
 - [Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://arxiv.org/abs/2403.19708) | NUS
 - [Autellix:](http://arxiv.org/abs/2502.13965) An Efficient Serving Engine for LLM Agents as General Programs] | UCB
+- [agent-serving-sim:](https://github.com/Naloam/agent-serving-sim) Discrete-Event Simulator for LLM Agent Serving Workloads — KV cache, eviction policies (LRU/TTL/priority/quota), preemption economics, bundled with 1.3k+ real agent-trace requests | Open Source
 
 ## Misc
 - [Efficiently Scaling Transformer Inference](https://arxiv.org/pdf/2211.05102.pdf) | MLSys' 23
